@@ -18,7 +18,7 @@ Before you do decide to download anything -> check out GoG Games. They do a bril
 <summary>Installation ⌨️</summary>
 Put files into the game’s folder.
 
-  [Get Files 📁]()
+  [Get Files 📁](https://github.com/smoochie-code-amateur/DRM-Free-Files/blob/main/offline-tlok.zip)
 </details>
 <details>
 <summary>Read me ✨</summary>
